@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TheFirstAndroidUdacityProject</string>
+    <string name="txt_Name">Corey Prevost</string>
+    <string name="txt_StarImageDescription">issa star</string>
+    <string name="txt_bio"> Hi My Name is Corey.
+    \n\n I like playing football and basketball.
+    \n\n My girlfriend\'s name is Olivia. Her momma name is Kelly and her daddy name Keith.
+        \n\n For my birthday I want eat bukoo food from different asian cultures, like ramen, sushi,
+        fried rice, mongolian beef, shit like that.
+        \n\n You know I grew up in the 9th w/d, with my grandma nem. I miss her, my momma, and aunt Gail.
+        \n\n This aunt Gail shit really hurt.
+        \n\n Can\'t forget my lil kashew Elan. His momma Olivia still hurting behind that, \n
+        I\'ll pray for her
+
+
+    </string>
+    <string name="txt_Nickname">Name</string>
+    <string name="txt_HintForNickname">What\'s yo street name, playa?</string>
+    <string name="txt_btn_Done">DONE</string>
+</resources>
